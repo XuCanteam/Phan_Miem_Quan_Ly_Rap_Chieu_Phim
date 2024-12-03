@@ -6,14 +6,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run: \
 
-###thêm mới
-git add .
-git commit -m "Mô tả thay đổi khi chỉnh sửa"
-git checkout -b TenNhanhThayDoi
-git remote add origin git@github.com:XuCanteam/Phan_Miem_Quan_Ly_Rap_Chieu_Phim.git
+
+## Push mới lên repos
+git add .  \
+git commit -m "Mô tả thay đổi khi chỉnh sửa"  \
+git checkout -b TenNhanhThayDoi  \
+git remote add origin git@github.com:XuCanteam/Phan_Miem_Quan_Ly_Rap_Chieu_Phim.git  \
 git push origin TenNhanhThayDoi
+
 
 ### `npm start`
 
