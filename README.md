@@ -1,9 +1,9 @@
-#thêm mới
+#thêm mới.
 git add .
-git commit -m "Mô tả thay đổi khi chỉnh sửa"  
-git checkout -b TenNhanhThayDoi
-git remote add origin git@github.com:XuCanteam/Phan_Miem_Quan_Ly_Rap_Chieu_Phim.git
-git push origin TenNhanhThayDoi
+git commit -m "Mô tả thay đổi khi chỉnh sửa".
+git checkout -b TenNhanhThayDoi.
+git remote add origin git@github.com:XuCanteam/Phan_Miem_Quan_Ly_Rap_Chieu_Phim.git.
+git push origin TenNhanhThayDoi.
 
 
 # Getting Started with Create React App
